@@ -292,7 +292,7 @@ This type of system is used in:
 KONIJETI VENKATA SESHU BABU  
 Engineering Student
 📧seshubabukv1200@gmail.com  
-💼 [LinkedIn](www.linkedin.com/in/seshu-babu-konijeti-74968b2b9)  
+💼 [LinkedIn](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 
 ---
 
