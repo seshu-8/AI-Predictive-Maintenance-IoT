@@ -289,11 +289,10 @@ This type of system is used in:
 
 ## 👤 Author
 
-**[Your Name]**  
-Engineering Student | Aspiring ML/AI Engineer  
-📧 your.email@domain.com  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+KONIJETI VENKATA SESHU BABU  
+Engineering Student
+📧seshubabukv1200@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/seshu-babu-konijeti)  
 
 ---
 
