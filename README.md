@@ -1,8 +1,5 @@
 # 🤖 AI-Powered Predictive Maintenance System for IoT Devices
 
-<p align="center">
-  <img src="images/banner.png" alt="Project Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python" />
